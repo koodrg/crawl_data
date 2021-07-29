@@ -1,4 +1,4 @@
-[
+{"data": [
           {
                     "category": "Đất mặt bằng cho thuê",
                     "apartment_name": "Chính chủ Cho thuê Shop Mỹ Cảnh, Phú Mỹ Hưng, Quận 7 vị trí đẹp",
@@ -7,11 +7,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Đường số 6, Phường Tân Phong, Quận 7, TPHCM",
+                    "full_address": " Đường số 6, Phường Tân Phong, Quận 7, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Tân Phong",
                               "district": "Quận 7",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "37 triệu",
                     "price_by_num": "37000000",
@@ -41,11 +41,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Nguyễn Văn Linh, Phường Tân Phong, Quận 7, TPHCM",
+                    "full_address": " Nguyễn Văn Linh, Phường Tân Phong, Quận 7, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Tân Phong",
                               "district": "Quận 7",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "50 triệu",
                     "price_by_num": "50000000",
@@ -94,11 +94,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Thái Thuận, Phường An Phú, Quận 2, TPHCM",
+                    "full_address": " Thái Thuận, Phường An Phú, Quận 2, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường An Phú",
                               "district": "Quận 2",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "25 triệu",
                     "price_by_num": "25000000",
@@ -143,11 +143,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Dương Bá Trạc, Phường 1, Quận 8, TPHCM",
+                    "full_address": " Dương Bá Trạc, Phường 1, Quận 8, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường 1",
                               "district": "Quận 8",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "300 triệu",
                     "price_by_num": "300000000",
@@ -167,11 +167,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Nguyễn Duy Trinh, Phường Bình Trưng Đông, Quận 2, TPHCM",
+                    "full_address": " Nguyễn Duy Trinh, Phường Bình Trưng Đông, Quận 2, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Bình Trưng Đông",
                               "district": "Quận 2",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "27 triệu",
                     "price_by_num": "27000000",
@@ -214,11 +214,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, TPHCM",
+                    "full_address": " Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Tân Phú",
                               "district": "Quận 7",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "26 triệu",
                     "price_by_num": "26000000",
@@ -237,11 +237,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Cách Mạng Tháng 8, Phường 11, Quận 3, TPHCM",
+                    "full_address": " Cách Mạng Tháng 8, Phường 11, Quận 3, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường 11",
                               "district": "Quận 3",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "6 triệu",
                     "price_by_num": "6000000",
@@ -288,11 +288,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Nguyễn Văn Linh, Phường Tân Phong, Quận 7, TPHCM",
+                    "full_address": " Nguyễn Văn Linh, Phường Tân Phong, Quận 7, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Tân Phong",
                               "district": "Quận 7",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "35 triệu",
                     "price_by_num": "35000000",
@@ -313,11 +313,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, TPHCM",
+                    "full_address": " Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Tân Phú",
                               "district": "Quận 7",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "48 triệu",
                     "price_by_num": "48000000",
@@ -336,11 +336,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Lương Định Của, Phường An Phú, Quận 2, TPHCM",
+                    "full_address": " Lương Định Của, Phường An Phú, Quận 2, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường An Phú",
                               "district": "Quận 2",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "45 triệu",
                     "price_by_num": "45000000",
@@ -363,11 +363,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Nguyễn Cơ Thạch, Phường An Lợi Đông, Quận 2, TPHCM",
+                    "full_address": " Nguyễn Cơ Thạch, Phường An Lợi Đông, Quận 2, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường An Lợi Đông",
                               "district": "Quận 2",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "55 triệu",
                     "price_by_num": "55000000",
@@ -396,11 +396,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Nguyễn Quý Đức, Phường An Phú, Quận 2, TPHCM",
+                    "full_address": " Nguyễn Quý Đức, Phường An Phú, Quận 2, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường An Phú",
                               "district": "Quận 2",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "15 triệu",
                     "price_by_num": "15000000",
@@ -421,11 +421,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Phạm Văn Nghị, Phường Tân Phong, Quận 7, TPHCM",
+                    "full_address": " Phạm Văn Nghị, Phường Tân Phong, Quận 7, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Tân Phong",
                               "district": "Quận 7",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "30 triệu",
                     "price_by_num": "30000000",
@@ -445,11 +445,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Đường số 6, Phường Tân Phong, Quận 7, TPHCM",
+                    "full_address": " Đường số 6, Phường Tân Phong, Quận 7, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Tân Phong",
                               "district": "Quận 7",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "37 triệu",
                     "price_by_num": "37000000",
@@ -479,11 +479,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Huỳnh Tịnh Của, Phường 8, Quận 3, TPHCM",
+                    "full_address": " Huỳnh Tịnh Của, Phường 8, Quận 3, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường 8",
                               "district": "Quận 3",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "10 triệu",
                     "price_by_num": "10000000",
@@ -506,11 +506,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Cao Đức Lân, Phường An Phú, Quận 2, TPHCM",
+                    "full_address": " Cao Đức Lân, Phường An Phú, Quận 2, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường An Phú",
                               "district": "Quận 2",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "30 triệu",
                     "price_by_num": "30000000",
@@ -531,11 +531,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Xuân Thủy, Phường Thảo Điền, Quận 2, TPHCM",
+                    "full_address": " Xuân Thủy, Phường Thảo Điền, Quận 2, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Thảo Điền",
                               "district": "Quận 2",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "26 triệu",
                     "price_by_num": "26000000",
@@ -561,11 +561,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Nguyễn Hoàng, Phường An Phú, Quận 2, TPHCM",
+                    "full_address": " Nguyễn Hoàng, Phường An Phú, Quận 2, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường An Phú",
                               "district": "Quận 2",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "50 triệu",
                     "price_by_num": "50000000",
@@ -609,11 +609,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Đường số 16, Phường Tân Phú, Quận 7, TPHCM",
+                    "full_address": " Đường số 16, Phường Tân Phú, Quận 7, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Tân Phú",
                               "district": "Quận 7",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "160 triệu",
                     "price_by_num": "160000000",
@@ -659,11 +659,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " An Phú, Phường An Phú, Quận 2, TPHCM",
+                    "full_address": " An Phú, Phường An Phú, Quận 2, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường An Phú",
                               "district": "Quận 2",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "22 triệu",
                     "price_by_num": "22000000",
@@ -688,11 +688,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Phạm Văn Nghị, Phường Tân Phong, Quận 7, TPHCM",
+                    "full_address": " Phạm Văn Nghị, Phường Tân Phong, Quận 7, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Tân Phong",
                               "district": "Quận 7",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "64 triệu",
                     "price_by_num": "64000000",
@@ -713,11 +713,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, TPHCM",
+                    "full_address": " Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Tân Phú",
                               "district": "Quận 7",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "40 triệu",
                     "price_by_num": "40000000",
@@ -743,11 +743,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Trần Não, Phường Bình An, Quận 2 (TP. Thủ Đức), TPHCM",
+                    "full_address": " Trần Não, Phường Bình An, Quận 2 (TP. Thủ Đức), Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Bình An",
                               "district": "Quận 2 (TP. Thủ Đức)",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "19 triệu 500 nghìn",
                     "price_by_num": "19000000",
@@ -766,11 +766,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Trần Lựu, Phường An Phú, Quận 2 (TP. Thủ Đức), TPHCM",
+                    "full_address": " Trần Lựu, Phường An Phú, Quận 2 (TP. Thủ Đức), Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường An Phú",
                               "district": "Quận 2 (TP. Thủ Đức)",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "45 triệu",
                     "price_by_num": "45000000",
@@ -836,11 +836,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Hoàng Sa, Phường 5, Quận Tân Bình, TPHCM",
+                    "full_address": " Hoàng Sa, Phường 5, Quận Tân Bình, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường 5",
                               "district": "Quận Tân Bình",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "6 triệu",
                     "price_by_num": "6000000",
@@ -864,11 +864,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Lê Văn Sỹ, Phường 13, Quận 3, TPHCM",
+                    "full_address": " Lê Văn Sỹ, Phường 13, Quận 3, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường 13",
                               "district": "Quận 3",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "60 triệu",
                     "price_by_num": "60000000",
@@ -888,11 +888,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Đường số 17, Phường Tân Phú, Quận 7, TPHCM",
+                    "full_address": " Đường số 17, Phường Tân Phú, Quận 7, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Tân Phú",
                               "district": "Quận 7",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "48 triệu",
                     "price_by_num": "48000000",
@@ -911,11 +911,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Tạ Hiện, Phường Thạnh Mỹ Lợi, Quận 2, TPHCM",
+                    "full_address": " Tạ Hiện, Phường Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Thạnh Mỹ Lợi",
                               "district": "Quận 2",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "45 triệu",
                     "price_by_num": "45000000",
@@ -936,11 +936,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Lê Văn Thiêm, Phường Tân Phong, Quận 7, TPHCM",
+                    "full_address": " Lê Văn Thiêm, Phường Tân Phong, Quận 7, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Tân Phong",
                               "district": "Quận 7",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "11 tỷ",
                     "price_by_num": "11000000000",
@@ -990,11 +990,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, TPHCM",
+                    "full_address": " Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Tân Phú",
                               "district": "Quận 7",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "17 triệu",
                     "price_by_num": "17000000",
@@ -1013,11 +1013,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " An Phú, Phường An Phú, Quận 2, TPHCM",
+                    "full_address": " An Phú, Phường An Phú, Quận 2, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường An Phú",
                               "district": "Quận 2",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "20 triệu",
                     "price_by_num": "20000000",
@@ -1041,11 +1041,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Thạnh Lộc 08, Phường Thạnh Lộc, Quận 12, TPHCM",
+                    "full_address": " Thạnh Lộc 08, Phường Thạnh Lộc, Quận 12, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Thạnh Lộc",
                               "district": "Quận 12",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "13 triệu",
                     "price_by_num": "13000000",
@@ -1064,11 +1064,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": "139e Nguyễn Trãi, Phường Bến Thành, Quận 1, TPHCM",
+                    "full_address": "139e Nguyễn Trãi, Phường Bến Thành, Quận 1, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Bến Thành",
                               "district": "Quận 1",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "230 triệu",
                     "price_by_num": "230000000",
@@ -1088,11 +1088,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Phó Đức Chính, Phường Nguyễn Thái Bình, Quận 1, TPHCM",
+                    "full_address": " Phó Đức Chính, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Nguyễn Thái Bình",
                               "district": "Quận 1",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "18 triệu",
                     "price_by_num": "18000000",
@@ -1116,11 +1116,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, TPHCM",
+                    "full_address": " Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Tân Phú",
                               "district": "Quận 7",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "45 triệu",
                     "price_by_num": "45000000",
@@ -1139,11 +1139,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Thảo Điền, Phường Thảo Điền, Quận 2, TPHCM",
+                    "full_address": " Thảo Điền, Phường Thảo Điền, Quận 2, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Thảo Điền",
                               "district": "Quận 2",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "55 triệu",
                     "price_by_num": "55000000",
@@ -1162,11 +1162,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Thái Thuận, Phường An Phú, Quận 2, TPHCM",
+                    "full_address": " Thái Thuận, Phường An Phú, Quận 2, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường An Phú",
                               "district": "Quận 2",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "20 triệu",
                     "price_by_num": "20000000",
@@ -1191,11 +1191,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Nguyễn Văn Linh, Phường Tân Phong, Quận 7, TPHCM",
+                    "full_address": " Nguyễn Văn Linh, Phường Tân Phong, Quận 7, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Tân Phong",
                               "district": "Quận 7",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "150 triệu",
                     "price_by_num": "150000000",
@@ -1218,11 +1218,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": "82-84 Calmette, Phường Nguyễn Thái Bình, Quận 1, TPHCM",
+                    "full_address": "82-84 Calmette, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Nguyễn Thái Bình",
                               "district": "Quận 1",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "300 triệu",
                     "price_by_num": "300000000",
@@ -1267,11 +1267,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Đặng Đại Độ, Phường Tân Phong, Quận 7, TPHCM",
+                    "full_address": " Đặng Đại Độ, Phường Tân Phong, Quận 7, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Tân Phong",
                               "district": "Quận 7",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "70 triệu",
                     "price_by_num": "70000000",
@@ -1345,11 +1345,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Nguyễn Đức Cảnh, Phường Tân Phong, Quận 7, TPHCM",
+                    "full_address": " Nguyễn Đức Cảnh, Phường Tân Phong, Quận 7, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Tân Phong",
                               "district": "Quận 7",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "90 triệu",
                     "price_by_num": "90000000",
@@ -1368,11 +1368,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Hoàng Sa, Phường 5, Quận Tân Bình, TPHCM",
+                    "full_address": " Hoàng Sa, Phường 5, Quận Tân Bình, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường 5",
                               "district": "Quận Tân Bình",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "6 triệu",
                     "price_by_num": "6000000",
@@ -1396,11 +1396,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Nguyễn Hoàng, Phường An Phú, Quận 2, TPHCM",
+                    "full_address": " Nguyễn Hoàng, Phường An Phú, Quận 2, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường An Phú",
                               "district": "Quận 2",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "15 triệu",
                     "price_by_num": "15000000",
@@ -1449,11 +1449,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": "510 Nguyễn Thị Thập, Phường Tân Quy, Quận 7, TPHCM",
+                    "full_address": "510 Nguyễn Thị Thập, Phường Tân Quy, Quận 7, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Tân Quy",
                               "district": "Quận 7",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "230 triệu",
                     "price_by_num": "230000000",
@@ -1499,11 +1499,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Nguyễn Đức Cảnh, Phường Tân Phong, Quận 7, TPHCM",
+                    "full_address": " Nguyễn Đức Cảnh, Phường Tân Phong, Quận 7, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Tân Phong",
                               "district": "Quận 7",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "80 triệu",
                     "price_by_num": "80000000",
@@ -1522,11 +1522,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Bùi Bằng Đoàn, Phường Tân Phong, Quận 7, TPHCM",
+                    "full_address": " Bùi Bằng Đoàn, Phường Tân Phong, Quận 7, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Tân Phong",
                               "district": "Quận 7",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "73 triệu",
                     "price_by_num": "73000000",
@@ -1546,11 +1546,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, TPHCM",
+                    "full_address": " Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Tân Phú",
                               "district": "Quận 7",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "40 triệu",
                     "price_by_num": "40000000",
@@ -1569,11 +1569,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Đường số 16, Phường Tân Phú, Quận 7, TPHCM",
+                    "full_address": " Đường số 16, Phường Tân Phú, Quận 7, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Tân Phú",
                               "district": "Quận 7",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "60 triệu",
                     "price_by_num": "60000000",
@@ -1592,11 +1592,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Nguyễn Văn Linh, Phường Tân Phú, Quận 7, TPHCM",
+                    "full_address": " Nguyễn Văn Linh, Phường Tân Phú, Quận 7, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Tân Phú",
                               "district": "Quận 7",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "23 triệu",
                     "price_by_num": "23000000",
@@ -1615,11 +1615,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Nguyễn Đức Cảnh, Phường Tân Phong, Quận 7, TPHCM",
+                    "full_address": " Nguyễn Đức Cảnh, Phường Tân Phong, Quận 7, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Tân Phong",
                               "district": "Quận 7",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "43 triệu",
                     "price_by_num": "43000000",
@@ -1662,11 +1662,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Lương Định Của, Phường An Phú, Quận 2, TPHCM",
+                    "full_address": " Lương Định Của, Phường An Phú, Quận 2, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường An Phú",
                               "district": "Quận 2",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "50 triệu",
                     "price_by_num": "50000000",
@@ -1686,11 +1686,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, TPHCM",
+                    "full_address": " Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Tân Phú",
                               "district": "Quận 7",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "42 triệu",
                     "price_by_num": "42000000",
@@ -1710,11 +1710,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Đường C, Phường Tân Phú, Quận 7, TPHCM",
+                    "full_address": " Đường C, Phường Tân Phú, Quận 7, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Tân Phú",
                               "district": "Quận 7",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "90 triệu",
                     "price_by_num": "90000000",
@@ -1736,11 +1736,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Xa Lộ Hà Nội, Phường Phước Long B, Quận 9, TPHCM",
+                    "full_address": " Xa Lộ Hà Nội, Phường Phước Long B, Quận 9, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Phước Long B",
                               "district": "Quận 9",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "20 triệu",
                     "price_by_num": "20000000",
@@ -1759,11 +1759,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Thảo Điền, Phường Thảo Điền, Quận 2, TPHCM",
+                    "full_address": " Thảo Điền, Phường Thảo Điền, Quận 2, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Thảo Điền",
                               "district": "Quận 2",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "35 triệu",
                     "price_by_num": "35000000",
@@ -1782,11 +1782,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Nguyễn Hoàng, Phường An Phú, Quận 2, TPHCM",
+                    "full_address": " Nguyễn Hoàng, Phường An Phú, Quận 2, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường An Phú",
                               "district": "Quận 2",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "45 triệu",
                     "price_by_num": "45000000",
@@ -1806,11 +1806,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Đinh Tiên Hoàng, Phường Đa Kao, Quận 1, TPHCM",
+                    "full_address": " Đinh Tiên Hoàng, Phường Đa Kao, Quận 1, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Đa Kao",
                               "district": "Quận 1",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "38 triệu",
                     "price_by_num": "38000000",
@@ -1829,11 +1829,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": "10 Đặng Trần Côn, Phường Bến Thành, Quận 1, TPHCM",
+                    "full_address": "10 Đặng Trần Côn, Phường Bến Thành, Quận 1, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường Bến Thành",
                               "district": "Quận 1",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "55 triệu",
                     "price_by_num": "55000000",
@@ -1879,11 +1879,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Đường số 36, Phường An Phú, Quận 2, TPHCM",
+                    "full_address": " Đường số 36, Phường An Phú, Quận 2, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường An Phú",
                               "district": "Quận 2",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "18 triệu",
                     "price_by_num": "18000000",
@@ -1926,11 +1926,11 @@
                     "direction": "",
                     "num_bedroom": "0",
                     "num_wc": "0",
-                    "full_address": " Trần Bình Trọng, Phường 1, Quận 5, TPHCM",
+                    "full_address": " Trần Bình Trọng, Phường 1, Quận 5, Hồ Chí Minh",
                     "detail_address": {
                               "ward": "Phường 1",
                               "district": "Quận 5",
-                              "city": "TPHCM"
+                              "city": "Hồ Chí Minh"
                     },
                     "price": "40 triệu",
                     "price_by_num": "40000000",
@@ -1973,11 +1973,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Mai Chí Thọ, Phường Thủ Thiêm, Quận 2, TPHCM",
+            "full_address": " Mai Chí Thọ, Phường Thủ Thiêm, Quận 2, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Thủ Thiêm",
                       "district": "Quận 2",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "208 triệu",
             "price_by_num": "208000000",
@@ -1998,11 +1998,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Đường số 6, Phường Tân Phong, Quận 7, TPHCM",
+            "full_address": " Đường số 6, Phường Tân Phong, Quận 7, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Tân Phong",
                       "district": "Quận 7",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "35 triệu",
             "price_by_num": "35000000",
@@ -2023,11 +2023,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Nguyễn Văn Linh, Phường Tân Phong, Quận 7, TPHCM",
+            "full_address": " Nguyễn Văn Linh, Phường Tân Phong, Quận 7, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Tân Phong",
                       "district": "Quận 7",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "28 triệu",
             "price_by_num": "28000000",
@@ -2046,11 +2046,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Bùi Bằng Đoàn, Phường Tân Phong, Quận 7, TPHCM",
+            "full_address": " Bùi Bằng Đoàn, Phường Tân Phong, Quận 7, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Tân Phong",
                       "district": "Quận 7",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "90 triệu",
             "price_by_num": "90000000",
@@ -2070,11 +2070,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, TPHCM",
+            "full_address": " Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Tân Phú",
                       "district": "Quận 7",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "24 triệu",
             "price_by_num": "24000000",
@@ -2093,11 +2093,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Nguyễn Đức Cảnh, Phường Tân Phong, Quận 7, TPHCM",
+            "full_address": " Nguyễn Đức Cảnh, Phường Tân Phong, Quận 7, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Tân Phong",
                       "district": "Quận 7",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "90 triệu",
             "price_by_num": "90000000",
@@ -2123,11 +2123,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, TPHCM",
+            "full_address": " Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Tân Phú",
                       "district": "Quận 7",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "75 triệu",
             "price_by_num": "75000000",
@@ -2146,11 +2146,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Sư Vạn Hạnh, Phường 9, Quận 5, TPHCM",
+            "full_address": " Sư Vạn Hạnh, Phường 9, Quận 5, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường 9",
                       "district": "Quận 5",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "30 triệu",
             "price_by_num": "30000000",
@@ -2170,11 +2170,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Bùi Bằng Đoàn, Phường Tân Phong, Quận 7, TPHCM",
+            "full_address": " Bùi Bằng Đoàn, Phường Tân Phong, Quận 7, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Tân Phong",
                       "district": "Quận 7",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "25 triệu",
             "price_by_num": "25000000",
@@ -2193,11 +2193,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": "143a Nguyễn Văn Thủ, Phường Đa Kao, Quận 1, TPHCM",
+            "full_address": "143a Nguyễn Văn Thủ, Phường Đa Kao, Quận 1, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Đa Kao",
                       "district": "Quận 1",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "35 triệu",
             "price_by_num": "35000000",
@@ -2217,11 +2217,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Lê Văn Thiêm, Phường Tân Phong, Quận 7, TPHCM",
+            "full_address": " Lê Văn Thiêm, Phường Tân Phong, Quận 7, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Tân Phong",
                       "district": "Quận 7",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "30 triệu",
             "price_by_num": "30000000",
@@ -2247,11 +2247,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Nguyễn Hữu Thọ, Xã Phước Kiển, Huyện Nhà Bè, TPHCM",
+            "full_address": " Nguyễn Hữu Thọ, Xã Phước Kiển, Huyện Nhà Bè, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Xã Phước Kiển",
                       "district": "Huyện Nhà Bè",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "14 triệu",
             "price_by_num": "14000000",
@@ -2277,11 +2277,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Đường số 16, Phường Tân Phú, Quận 7, TPHCM",
+            "full_address": " Đường số 16, Phường Tân Phú, Quận 7, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Tân Phú",
                       "district": "Quận 7",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "40 triệu",
             "price_by_num": "40000000",
@@ -2306,11 +2306,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Tân Sơn Nhì, Phường Tân Quý, Quận Tân Phú, TPHCM",
+            "full_address": " Tân Sơn Nhì, Phường Tân Quý, Quận Tân Phú, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Tân Quý",
                       "district": "Quận Tân Phú",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "30 triệu",
             "price_by_num": "30000000",
@@ -2329,11 +2329,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Đỗ Xuân Hợp, Phường Phước Bình, Quận 9 (TP. Thủ Đức), TPHCM",
+            "full_address": " Đỗ Xuân Hợp, Phường Phước Bình, Quận 9 (TP. Thủ Đức), Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Phước Bình",
                       "district": "Quận 9 (TP. Thủ Đức)",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "23 triệu",
             "price_by_num": "23000000",
@@ -2422,11 +2422,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Tân Hải, Phường 13, Quận Tân Bình, TPHCM",
+            "full_address": " Tân Hải, Phường 13, Quận Tân Bình, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường 13",
                       "district": "Quận Tân Bình",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "70 triệu",
             "price_by_num": "70000000",
@@ -2445,11 +2445,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Phạm Văn Nghị, Phường Tân Phong, Quận 7, TPHCM",
+            "full_address": " Phạm Văn Nghị, Phường Tân Phong, Quận 7, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Tân Phong",
                       "district": "Quận 7",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "50 triệu",
             "price_by_num": "50000000",
@@ -2468,11 +2468,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Bùi Bằng Đoàn, Phường Tân Phong, Quận 7, TPHCM",
+            "full_address": " Bùi Bằng Đoàn, Phường Tân Phong, Quận 7, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Tân Phong",
                       "district": "Quận 7",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "40 triệu",
             "price_by_num": "40000000",
@@ -2492,11 +2492,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Trần Khắc Chân, Phường Tân Định, Quận 1, TPHCM",
+            "full_address": " Trần Khắc Chân, Phường Tân Định, Quận 1, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Tân Định",
                       "district": "Quận 1",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "30 triệu",
             "price_by_num": "30000000",
@@ -2516,11 +2516,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Phạm Thái Bường, Phường Tân Phong, Quận 7, TPHCM",
+            "full_address": " Phạm Thái Bường, Phường Tân Phong, Quận 7, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Tân Phong",
                       "district": "Quận 7",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "20 triệu",
             "price_by_num": "20000000",
@@ -2540,11 +2540,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, TPHCM",
+            "full_address": " Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Tân Phú",
                       "district": "Quận 7",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "30 triệu",
             "price_by_num": "30000000",
@@ -2563,11 +2563,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Đường số 16, Phường Tân Phú, Quận 7, TPHCM",
+            "full_address": " Đường số 16, Phường Tân Phú, Quận 7, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Tân Phú",
                       "district": "Quận 7",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "42 triệu",
             "price_by_num": "42000000",
@@ -2593,11 +2593,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Nguyễn Văn Linh, Phường Tân Phong, Quận 7, TPHCM",
+            "full_address": " Nguyễn Văn Linh, Phường Tân Phong, Quận 7, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Tân Phong",
                       "district": "Quận 7",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "90 triệu",
             "price_by_num": "90000000",
@@ -2641,11 +2641,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Bùi Bằng Đoàn, Phường Tân Phong, Quận 7, TPHCM",
+            "full_address": " Bùi Bằng Đoàn, Phường Tân Phong, Quận 7, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Tân Phong",
                       "district": "Quận 7",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "45 triệu",
             "price_by_num": "45000000",
@@ -2688,11 +2688,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Hồng Bàng, Phường 2, Quận Bình Thạnh, TPHCM",
+            "full_address": " Hồng Bàng, Phường 2, Quận Bình Thạnh, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường 2",
                       "district": "Quận Bình Thạnh",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "35 triệu",
             "price_by_num": "35000000",
@@ -2712,11 +2712,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Nguyễn Thị Minh Khai, Phường Đa Kao, Quận 1, TPHCM",
+            "full_address": " Nguyễn Thị Minh Khai, Phường Đa Kao, Quận 1, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Đa Kao",
                       "district": "Quận 1",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "50 triệu",
             "price_by_num": "50000000",
@@ -2735,11 +2735,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, TPHCM",
+            "full_address": " Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Tân Phú",
                       "district": "Quận 7",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "120 triệu",
             "price_by_num": "120000000",
@@ -2759,11 +2759,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Nguyễn Đức Cảnh, Phường Tân Phong, Quận 7, TPHCM",
+            "full_address": " Nguyễn Đức Cảnh, Phường Tân Phong, Quận 7, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Tân Phong",
                       "district": "Quận 7",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "100 triệu",
             "price_by_num": "100000000",
@@ -2782,11 +2782,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Đồng Khởi, Phường Bến Nghé, Quận 1, TPHCM",
+            "full_address": " Đồng Khởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Bến Nghé",
                       "district": "Quận 1",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "55 triệu",
             "price_by_num": "55000000",
@@ -2805,11 +2805,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Bành Văn Trân, Phường 7, Quận Tân Bình, TPHCM",
+            "full_address": " Bành Văn Trân, Phường 7, Quận Tân Bình, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường 7",
                       "district": "Quận Tân Bình",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "35 triệu",
             "price_by_num": "35000000",
@@ -2831,11 +2831,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Đường D2, Phường 25, Quận Bình Thạnh, TPHCM",
+            "full_address": " Đường D2, Phường 25, Quận Bình Thạnh, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường 25",
                       "district": "Quận Bình Thạnh",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "54 triệu",
             "price_by_num": "54000000",
@@ -2860,11 +2860,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Đường C, Phường Tân Phú, Quận 7, TPHCM",
+            "full_address": " Đường C, Phường Tân Phú, Quận 7, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Tân Phú",
                       "district": "Quận 7",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "20 triệu",
             "price_by_num": "20000000",
@@ -2883,11 +2883,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Nguyễn Thị Minh Khai, Phường 5, Quận 3, TPHCM",
+            "full_address": " Nguyễn Thị Minh Khai, Phường 5, Quận 3, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường 5",
                       "district": "Quận 3",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "60 triệu",
             "price_by_num": "60000000",
@@ -2906,11 +2906,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Phạm Văn Nghị, Phường Tân Phong, Quận 7, TPHCM",
+            "full_address": " Phạm Văn Nghị, Phường Tân Phong, Quận 7, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Tân Phong",
                       "district": "Quận 7",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "40 triệu",
             "price_by_num": "40000000",
@@ -2931,11 +2931,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Điện Biên Phủ, Phường Đa Kao, Quận 1, TPHCM",
+            "full_address": " Điện Biên Phủ, Phường Đa Kao, Quận 1, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Đa Kao",
                       "district": "Quận 1",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "33 triệu",
             "price_by_num": "33000000",
@@ -2955,11 +2955,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Lê Văn Thiêm, Phường Tân Phong, Quận 7, TPHCM",
+            "full_address": " Lê Văn Thiêm, Phường Tân Phong, Quận 7, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Tân Phong",
                       "district": "Quận 7",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "32 triệu",
             "price_by_num": "32000000",
@@ -2979,11 +2979,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Đặng Đại Độ, Phường Tân Phong, Quận 7, TPHCM",
+            "full_address": " Đặng Đại Độ, Phường Tân Phong, Quận 7, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Tân Phong",
                       "district": "Quận 7",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "70 triệu",
             "price_by_num": "70000000",
@@ -3002,11 +3002,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Phạm Thái Bường, Phường Tân Phong, Quận 7, TPHCM",
+            "full_address": " Phạm Thái Bường, Phường Tân Phong, Quận 7, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Tân Phong",
                       "district": "Quận 7",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "17 triệu",
             "price_by_num": "17000000",
@@ -3032,11 +3032,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Bùi Bằng Đoàn, Phường Tân Phong, Quận 7, TPHCM",
+            "full_address": " Bùi Bằng Đoàn, Phường Tân Phong, Quận 7, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Tân Phong",
                       "district": "Quận 7",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "190 triệu",
             "price_by_num": "190000000",
@@ -3059,11 +3059,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Bùi Bằng Đoàn, Phường Tân Phong, Quận 7, TPHCM",
+            "full_address": " Bùi Bằng Đoàn, Phường Tân Phong, Quận 7, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Tân Phong",
                       "district": "Quận 7",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "16 triệu 500 nghìn",
             "price_by_num": "16000000",
@@ -3082,11 +3082,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Tôn Dật Tiên, Phường Tân Phong, Quận 7, TPHCM",
+            "full_address": " Tôn Dật Tiên, Phường Tân Phong, Quận 7, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Tân Phong",
                       "district": "Quận 7",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "50 triệu",
             "price_by_num": "50000000",
@@ -3105,11 +3105,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Mai Chí Thọ, Phường Thủ Thiêm, Quận 2, TPHCM",
+            "full_address": " Mai Chí Thọ, Phường Thủ Thiêm, Quận 2, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Thủ Thiêm",
                       "district": "Quận 2",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "30 triệu",
             "price_by_num": "30000000",
@@ -3130,11 +3130,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Mai Chí Thọ, Phường Thủ Thiêm, Quận 2, TPHCM",
+            "full_address": " Mai Chí Thọ, Phường Thủ Thiêm, Quận 2, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Thủ Thiêm",
                       "district": "Quận 2",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "81 triệu",
             "price_by_num": "81000000",
@@ -3155,11 +3155,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Mai Chí Thọ, Phường Thủ Thiêm, Quận 2, TPHCM",
+            "full_address": " Mai Chí Thọ, Phường Thủ Thiêm, Quận 2, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Thủ Thiêm",
                       "district": "Quận 2",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "81 triệu 500 nghìn",
             "price_by_num": "81000000",
@@ -3180,11 +3180,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Nguyễn Thị Minh Khai, Phường Bến Nghé, Quận 1, TPHCM",
+            "full_address": " Nguyễn Thị Minh Khai, Phường Bến Nghé, Quận 1, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Bến Nghé",
                       "district": "Quận 1",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "55 triệu",
             "price_by_num": "55000000",
@@ -3203,11 +3203,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Nguyễn Thị Thập, Phường Tân Quy, Quận 7, TPHCM",
+            "full_address": " Nguyễn Thị Thập, Phường Tân Quy, Quận 7, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Tân Quy",
                       "district": "Quận 7",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "10 triệu",
             "price_by_num": "10000000",
@@ -3242,11 +3242,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Mai Chí Thọ, Phường Thủ Thiêm, Quận 2, TPHCM",
+            "full_address": " Mai Chí Thọ, Phường Thủ Thiêm, Quận 2, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Thủ Thiêm",
                       "district": "Quận 2",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "75 triệu",
             "price_by_num": "75000000",
@@ -3268,11 +3268,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Lê Văn Sỹ, Phường 14, Quận 3, TPHCM",
+            "full_address": " Lê Văn Sỹ, Phường 14, Quận 3, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường 14",
                       "district": "Quận 3",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "40 triệu",
             "price_by_num": "40000000",
@@ -3291,11 +3291,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Mai Văn Vĩnh, Phường Tân Quy, Quận 7, TPHCM",
+            "full_address": " Mai Văn Vĩnh, Phường Tân Quy, Quận 7, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Tân Quy",
                       "district": "Quận 7",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "13 triệu",
             "price_by_num": "13000000",
@@ -3315,11 +3315,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Mai Chí Thọ, Phường Thủ Thiêm, Quận 2, TPHCM",
+            "full_address": " Mai Chí Thọ, Phường Thủ Thiêm, Quận 2, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường Thủ Thiêm",
                       "district": "Quận 2",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "63 triệu",
             "price_by_num": "63000000",
@@ -3340,11 +3340,11 @@
             "direction": "",
             "num_bedroom": "0",
             "num_wc": "0",
-            "full_address": " Hoa Cau, Phường 7, Quận Phú Nhuận, TPHCM",
+            "full_address": " Hoa Cau, Phường 7, Quận Phú Nhuận, Hồ Chí Minh",
             "detail_address": {
                       "ward": "Phường 7",
                       "district": "Quận Phú Nhuận",
-                      "city": "TPHCM"
+                      "city": "Hồ Chí Minh"
             },
             "price": "25 triệu",
             "price_by_num": "25000000",
@@ -3367,11 +3367,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Thạnh Xuân 38, Phường Thạnh Xuân, Quận 12, TPHCM",
+    "full_address": " Thạnh Xuân 38, Phường Thạnh Xuân, Quận 12, Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường Thạnh Xuân",
               "district": "Quận 12",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "24 triệu",
     "price_by_num": "24000000",
@@ -3391,11 +3391,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, TPHCM",
+    "full_address": " Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường Tân Thới Nhất",
               "district": "Quận 12",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "25 triệu",
     "price_by_num": "25000000",
@@ -3443,11 +3443,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Nguyễn Thế Truyện, Phường Tân Sơn Nhì, Quận Tân Phú, TPHCM",
+    "full_address": " Nguyễn Thế Truyện, Phường Tân Sơn Nhì, Quận Tân Phú, Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường Tân Sơn Nhì",
               "district": "Quận Tân Phú",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "5 triệu",
     "price_by_num": "5000000",
@@ -3472,11 +3472,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Đường số 61, Phường Phước Long B, Quận 9, TPHCM",
+    "full_address": " Đường số 61, Phường Phước Long B, Quận 9, Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường Phước Long B",
               "district": "Quận 9",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "60 triệu",
     "price_by_num": "60000000",
@@ -3495,11 +3495,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Tân Thới Nhất 8, Phường Tân Thới Nhất, Quận 12, TPHCM",
+    "full_address": " Tân Thới Nhất 8, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường Tân Thới Nhất",
               "district": "Quận 12",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "95 triệu",
     "price_by_num": "95000000",
@@ -3520,11 +3520,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Võ Văn Vân, Xã Vĩnh Lộc B, Huyện Bình Chánh, TPHCM",
+    "full_address": " Võ Văn Vân, Xã Vĩnh Lộc B, Huyện Bình Chánh, Hồ Chí Minh",
     "detail_address": {
               "ward": "Xã Vĩnh Lộc B",
               "district": "Huyện Bình Chánh",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "50 triệu",
     "price_by_num": "50000000",
@@ -3543,11 +3543,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Nguyễn Văn Cự, Phường Tân Tạo A, Quận Bình Tân, TPHCM",
+    "full_address": " Nguyễn Văn Cự, Phường Tân Tạo A, Quận Bình Tân, Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường Tân Tạo A",
               "district": "Quận Bình Tân",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "60 triệu",
     "price_by_num": "60000000",
@@ -3567,11 +3567,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Bùi Quang Là, Phường 12, Quận Gò Vấp, TPHCM",
+    "full_address": " Bùi Quang Là, Phường 12, Quận Gò Vấp, Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường 12",
               "district": "Quận Gò Vấp",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "5 triệu",
     "price_by_num": "5000000",
@@ -3601,11 +3601,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Nguyễn Duy Trinh, Phường Phú Hữu, Quận 9 (TP. Thủ Đức), TPHCM",
+    "full_address": " Nguyễn Duy Trinh, Phường Phú Hữu, Quận 9 (TP. Thủ Đức), Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường Phú Hữu",
               "district": "Quận 9 (TP. Thủ Đức)",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "22 triệu",
     "price_by_num": "22000000",
@@ -3650,11 +3650,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Thạnh Lộc 54, Phường Thạnh Lộc, Quận 12, TPHCM",
+    "full_address": " Thạnh Lộc 54, Phường Thạnh Lộc, Quận 12, Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường Thạnh Lộc",
               "district": "Quận 12",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "15 triệu",
     "price_by_num": "15000000",
@@ -3675,11 +3675,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Âu Cơ, Phường 14, Quận 11, TPHCM",
+    "full_address": " Âu Cơ, Phường 14, Quận 11, Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường 14",
               "district": "Quận 11",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "5 triệu",
     "price_by_num": "5000000",
@@ -3726,11 +3726,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Thạnh Lộc 15, Phường Thạnh Lộc, Quận 12, TPHCM",
+    "full_address": " Thạnh Lộc 15, Phường Thạnh Lộc, Quận 12, Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường Thạnh Lộc",
               "district": "Quận 12",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "15 triệu",
     "price_by_num": "15000000",
@@ -3753,11 +3753,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Thạnh Xuân 25, Phường Thạnh Xuân, Quận 12, TPHCM",
+    "full_address": " Thạnh Xuân 25, Phường Thạnh Xuân, Quận 12, Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường Thạnh Xuân",
               "district": "Quận 12",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "45 triệu",
     "price_by_num": "45000000",
@@ -3777,11 +3777,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Nguyễn Thị Lắng, Xã Tân Phú Trung, Huyện Củ Chi, TPHCM",
+    "full_address": " Nguyễn Thị Lắng, Xã Tân Phú Trung, Huyện Củ Chi, Hồ Chí Minh",
     "detail_address": {
               "ward": "Xã Tân Phú Trung",
               "district": "Huyện Củ Chi",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "60 triệu",
     "price_by_num": "60000000",
@@ -3800,11 +3800,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Kha Vạn Cân, Phường Hiệp Bình Chánh, Quận Thủ Đức, TPHCM",
+    "full_address": " Kha Vạn Cân, Phường Hiệp Bình Chánh, Quận Thủ Đức, Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường Hiệp Bình Chánh",
               "district": "Quận Thủ Đức",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "105 triệu",
     "price_by_num": "105000000",
@@ -3824,11 +3824,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Xô Viết Nghệ Tĩnh, Phường 21, Quận Bình Thạnh, TPHCM",
+    "full_address": " Xô Viết Nghệ Tĩnh, Phường 21, Quận Bình Thạnh, Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường 21",
               "district": "Quận Bình Thạnh",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "20 triệu",
     "price_by_num": "20000000",
@@ -3849,11 +3849,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " An Phú Đông, Phường An Phú Đông, Quận 12, TPHCM",
+    "full_address": " An Phú Đông, Phường An Phú Đông, Quận 12, Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường An Phú Đông",
               "district": "Quận 12",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "140 triệu",
     "price_by_num": "140000000",
@@ -3874,11 +3874,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Nguyễn Thị Tú, Phường Bình Hưng Hòa B, Quận Bình Tân, TPHCM",
+    "full_address": " Nguyễn Thị Tú, Phường Bình Hưng Hòa B, Quận Bình Tân, Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường Bình Hưng Hòa B",
               "district": "Quận Bình Tân",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "15 triệu",
     "price_by_num": "15000000",
@@ -3899,11 +3899,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Trần Văn Mười, Xã Xuân Thới Đông, Huyện Hóc Môn, TPHCM",
+    "full_address": " Trần Văn Mười, Xã Xuân Thới Đông, Huyện Hóc Môn, Hồ Chí Minh",
     "detail_address": {
               "ward": "Xã Xuân Thới Đông",
               "district": "Huyện Hóc Môn",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "110 triệu",
     "price_by_num": "110000000",
@@ -3951,11 +3951,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Quang Trung, Phường 12, Quận Gò Vấp, TPHCM",
+    "full_address": " Quang Trung, Phường 12, Quận Gò Vấp, Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường 12",
               "district": "Quận Gò Vấp",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "16 triệu",
     "price_by_num": "16000000",
@@ -3975,11 +3975,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Vũ Tông Phan, Phường An Phú, Quận 2, TPHCM",
+    "full_address": " Vũ Tông Phan, Phường An Phú, Quận 2, Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường An Phú",
               "district": "Quận 2",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "30 triệu",
     "price_by_num": "30000000",
@@ -3999,11 +3999,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Quốc Lộ 1A, Phường An Lạc, Quận Bình Tân, TPHCM",
+    "full_address": " Quốc Lộ 1A, Phường An Lạc, Quận Bình Tân, Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường An Lạc",
               "district": "Quận Bình Tân",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "50 triệu",
     "price_by_num": "50000000",
@@ -4023,11 +4023,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Xuân Thới 15, Xã Tân Thới Nhì, Huyện Hóc Môn, TPHCM",
+    "full_address": " Xuân Thới 15, Xã Tân Thới Nhì, Huyện Hóc Môn, Hồ Chí Minh",
     "detail_address": {
               "ward": "Xã Tân Thới Nhì",
               "district": "Huyện Hóc Môn",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "100 triệu",
     "price_by_num": "100000000",
@@ -4050,11 +4050,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Tân Hương, Phường Tân Quý, Quận Tân Phú, TPHCM",
+    "full_address": " Tân Hương, Phường Tân Quý, Quận Tân Phú, Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường Tân Quý",
               "district": "Quận Tân Phú",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "5 triệu",
     "price_by_num": "5000000",
@@ -4101,11 +4101,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Cộng Hòa, Phường 12, Quận Tân Bình, TPHCM",
+    "full_address": " Cộng Hòa, Phường 12, Quận Tân Bình, Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường 12",
               "district": "Quận Tân Bình",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "6 triệu",
     "price_by_num": "6000000",
@@ -4162,11 +4162,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Thạnh Xuân 33, Phường Thạnh Xuân, Quận 12, TPHCM",
+    "full_address": " Thạnh Xuân 33, Phường Thạnh Xuân, Quận 12, Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường Thạnh Xuân",
               "district": "Quận 12",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "30 triệu",
     "price_by_num": "30000000",
@@ -4193,11 +4193,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Quốc Lộ 1A, Phường Thạnh Xuân, Quận 12, TPHCM",
+    "full_address": " Quốc Lộ 1A, Phường Thạnh Xuân, Quận 12, Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường Thạnh Xuân",
               "district": "Quận 12",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "260 triệu",
     "price_by_num": "260000000",
@@ -4232,11 +4232,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Trường Lưu, Phường Long Trường, Quận 9 (TP. Thủ Đức), TPHCM",
+    "full_address": " Trường Lưu, Phường Long Trường, Quận 9 (TP. Thủ Đức), Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường Long Trường",
               "district": "Quận 9 (TP. Thủ Đức)",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "27 triệu",
     "price_by_num": "27000000",
@@ -4256,11 +4256,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Đường số 6, Phường Bình An, Quận 2, TPHCM",
+    "full_address": " Đường số 6, Phường Bình An, Quận 2, Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường Bình An",
               "district": "Quận 2",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "43 triệu 999 nghìn",
     "price_by_num": "43000000",
@@ -4280,11 +4280,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Quốc Lộ 1A, Phường Thạnh Lộc, Quận 12, TPHCM",
+    "full_address": " Quốc Lộ 1A, Phường Thạnh Lộc, Quận 12, Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường Thạnh Lộc",
               "district": "Quận 12",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "80 triệu",
     "price_by_num": "80000000",
@@ -4306,11 +4306,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Nơ Trang Long, Phường 13, Quận Bình Thạnh, TPHCM",
+    "full_address": " Nơ Trang Long, Phường 13, Quận Bình Thạnh, Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường 13",
               "district": "Quận Bình Thạnh",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "124 triệu",
     "price_by_num": "124000000",
@@ -4329,11 +4329,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Lê Văn Khương, Phường Thới An, Quận 12, TPHCM",
+    "full_address": " Lê Văn Khương, Phường Thới An, Quận 12, Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường Thới An",
               "district": "Quận 12",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "230 triệu",
     "price_by_num": "230000000",
@@ -4382,11 +4382,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Nguyễn Văn Hưởng, Phường Thảo Điền, Quận 2, TPHCM",
+    "full_address": " Nguyễn Văn Hưởng, Phường Thảo Điền, Quận 2, Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường Thảo Điền",
               "district": "Quận 2",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "35 triệu",
     "price_by_num": "35000000",
@@ -4406,15 +4406,15 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Đường số 6, Xã Long Thới, Huyện Nhà Bè, TPHCM",
+    "full_address": " Đường số 6, Xã Long Thới, Huyện Nhà Bè, Hồ Chí Minh",
     "detail_address": {
               "ward": "Xã Long Thới",
               "district": "Huyện Nhà Bè",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "75 triệu",
     "price_by_num": "75000000",
-    "more_description": "* Cho thuê đất mặt tiền đường số 01, xã Long Thới, Nhà Bè (ngay cổng khu công nghiệp Hiệp Phước). * Diện tích 5000m đã thảm nhựa đường toàn bộ, xây tường rào bao quanh, có nhà vệ sinh, điện nước đầy đủ, xe công ra vào quay đầu... * Thích hợp làm bãi đậu xe, chành xe, bãi vật liệu xây dựng, làm kho,...* Cho thuê dài hạn giá chỉ 15.000đ/m2 (75.000.000 cho 5000m2) LH : Duy LuânCông Ty TNHH Thương Mại Dịch Vụ Và Đầu Tư TTB LAND ( chuyên mua bán và cho thuê kho xưởng_nhà đất_dự án) TPHCM, BÌNH DƯƠNG, LONG AN, NHÀ BÈ,...*Cảm ơn mọi người đã quan tâm",
+    "more_description": "* Cho thuê đất mặt tiền đường số 01, xã Long Thới, Nhà Bè (ngay cổng khu công nghiệp Hiệp Phước). * Diện tích 5000m đã thảm nhựa đường toàn bộ, xây tường rào bao quanh, có nhà vệ sinh, điện nước đầy đủ, xe công ra vào quay đầu... * Thích hợp làm bãi đậu xe, chành xe, bãi vật liệu xây dựng, làm kho,...* Cho thuê dài hạn giá chỉ 15.000đ/m2 (75.000.000 cho 5000m2) LH : Duy LuânCông Ty TNHH Thương Mại Dịch Vụ Và Đầu Tư TTB LAND ( chuyên mua bán và cho thuê kho xưởng_nhà đất_dự án) Hồ Chí Minh, BÌNH DƯƠNG, LONG AN, NHÀ BÈ,...*Cảm ơn mọi người đã quan tâm",
     "imgList": [
               "https://cloud.mogi.vn/images/2021/06/21/259/8fe4264a989d41858a05e56be50b2fe9.jpg",
               "https://cloud.mogi.vn/images/2021/06/21/259/9da8ed36e5dd48939af5e1c77af53d65.jpg",
@@ -4431,11 +4431,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Đường số 2, Phường Bình Hưng Hòa, Quận Bình Tân, TPHCM",
+    "full_address": " Đường số 2, Phường Bình Hưng Hòa, Quận Bình Tân, Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường Bình Hưng Hòa",
               "district": "Quận Bình Tân",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "35 triệu",
     "price_by_num": "35000000",
@@ -4454,11 +4454,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Đào Duy Anh, Phường 9, Quận Phú Nhuận, TPHCM",
+    "full_address": " Đào Duy Anh, Phường 9, Quận Phú Nhuận, Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường 9",
               "district": "Quận Phú Nhuận",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "5 triệu",
     "price_by_num": "5000000",
@@ -4538,11 +4538,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Trương Văn Hải, Phường Tân Phú, Quận 9 (TP. Thủ Đức), TPHCM",
+    "full_address": " Trương Văn Hải, Phường Tân Phú, Quận 9 (TP. Thủ Đức), Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường Tân Phú",
               "district": "Quận 9 (TP. Thủ Đức)",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "100 triệu",
     "price_by_num": "100000000",
@@ -4562,11 +4562,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Bình Lợi, Phường 13, Quận Bình Thạnh, TPHCM",
+    "full_address": " Bình Lợi, Phường 13, Quận Bình Thạnh, Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường 13",
               "district": "Quận Bình Thạnh",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "20 triệu",
     "price_by_num": "20000000",
@@ -4587,11 +4587,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Thành Thái, Phường 14, Quận 10, TPHCM",
+    "full_address": " Thành Thái, Phường 14, Quận 10, Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường 14",
               "district": "Quận 10",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "67 triệu 500 nghìn",
     "price_by_num": "67000000",
@@ -4610,11 +4610,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Lương Minh Nguyệt, Phường Tân Thới Hòa, Quận Tân Phú, TPHCM",
+    "full_address": " Lương Minh Nguyệt, Phường Tân Thới Hòa, Quận Tân Phú, Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường Tân Thới Hòa",
               "district": "Quận Tân Phú",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "180 triệu",
     "price_by_num": "180000000",
@@ -4634,11 +4634,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Tỉnh Lộ 10, Phường Tân Tạo, Quận Bình Tân, TPHCM",
+    "full_address": " Tỉnh Lộ 10, Phường Tân Tạo, Quận Bình Tân, Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường Tân Tạo",
               "district": "Quận Bình Tân",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "150 triệu",
     "price_by_num": "150000000",
@@ -4681,11 +4681,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Tô Ngọc Vân, Phường Thạnh Xuân, Quận 12, TPHCM",
+    "full_address": " Tô Ngọc Vân, Phường Thạnh Xuân, Quận 12, Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường Thạnh Xuân",
               "district": "Quận 12",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "13 triệu",
     "price_by_num": "13000000",
@@ -4705,11 +4705,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Đường số 52, Phường Tân Tạo, Quận Bình Tân, TPHCM",
+    "full_address": " Đường số 52, Phường Tân Tạo, Quận Bình Tân, Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường Tân Tạo",
               "district": "Quận Bình Tân",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "36 triệu",
     "price_by_num": "36000000",
@@ -4728,11 +4728,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Bến Bình Đông, Phường 14, Quận 8, TPHCM",
+    "full_address": " Bến Bình Đông, Phường 14, Quận 8, Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường 14",
               "district": "Quận 8",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "95 triệu",
     "price_by_num": "95000000",
@@ -4775,11 +4775,11 @@
     "direction": "",
     "num_bedroom": "0",
     "num_wc": "0",
-    "full_address": " Quốc Lộ 1A, Phường Thạnh Lộc, Quận 12, TPHCM",
+    "full_address": " Quốc Lộ 1A, Phường Thạnh Lộc, Quận 12, Hồ Chí Minh",
     "detail_address": {
               "ward": "Phường Thạnh Lộc",
               "district": "Quận 12",
-              "city": "TPHCM"
+              "city": "Hồ Chí Minh"
     },
     "price": "40 triệu",
     "price_by_num": "40000000",
@@ -4793,3 +4793,4 @@
     "legal": "Sổ hồng"
 }
 ]
+}

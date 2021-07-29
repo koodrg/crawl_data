@@ -1,4 +1,4 @@
-const { Utilities } = require('../../src/models/index');
+const { Utilities } = require('../../src/models');
 
 function MigrateUtils() {
   const {data} = require("../Utilities.json");

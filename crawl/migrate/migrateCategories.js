@@ -1,4 +1,4 @@
-const { Categories } = require('../../src/models/index');
+const { Categories } = require('../../src/models');
 
 function MigrateCategory() {
   const { categories } = require("../RealEstateCategories.json");

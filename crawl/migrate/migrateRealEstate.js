@@ -1,4 +1,4 @@
-const {Categories, Utilities, RealEstate } = require('../../src/models/index')
+const {Categories, Utilities, RealEstate } = require('../../src/models')
 
 
 const MigrateApartmentForSale = async () => {
@@ -73,6 +73,7 @@ const MigrateApartmentForRent = async () => {
       utilsList: listUtilities,
       isConfirmed: true,
       postedBy: null,
+      legal:apartmentDetail.legal
     }; 
   
     let realEstate = new RealEstate(newRealEstate)
@@ -118,6 +119,7 @@ const MigrateHometownForRent = async () => {
       utilsList: listUtilities,
       isConfirmed: true,
       postedBy: null,
+      legal:apartmentDetail.legal
     }; 
   
     let realEstate = new RealEstate(newRealEstate)
@@ -161,6 +163,7 @@ const MigrateHometownForSale = async () => {
       utilsList: listUtilities,
       isConfirmed: true,
       postedBy: null,
+      legal:apartmentDetail.legal
     }; 
   
     let realEstate = new RealEstate(newRealEstate)
@@ -204,6 +207,7 @@ const MigrateHometownForSaleMogi = async () => {
       utilsList: listUtilities,
       isConfirmed: true,
       postedBy: null,
+      legal:apartmentDetail.legal
     }; 
   
     let realEstate = new RealEstate(newRealEstate)
@@ -247,6 +251,7 @@ const MigrateHometownForRentMogi = async () => {
       utilsList: listUtilities,
       isConfirmed: true,
       postedBy: null,
+      legal:apartmentDetail.legal
     }; 
   
     let realEstate = new RealEstate(newRealEstate)
@@ -290,6 +295,7 @@ const MigrateApartmentForRentMogi = async () => {
       utilsList: listUtilities,
       isConfirmed: true,
       postedBy: null,
+      legal:apartmentDetail.legal
     }; 
   
     let realEstate = new RealEstate(newRealEstate)
@@ -334,7 +340,9 @@ const MigrateApartmentForSaleMogi= async () => {
       utilsList: listUtilities,
       isConfirmed: true,
       postedBy: null,
+      legal:apartmentDetail.legal
     }; 
+
   
     let realEstate = new RealEstate(newRealEstate)
 
@@ -377,6 +385,7 @@ const MigrateLandForSaleMogi = async () => {
       utilsList: listUtilities,
       isConfirmed: true,
       postedBy: null,
+      legal:apartmentDetail.legal
     }; 
   
     let realEstate = new RealEstate(newRealEstate)
@@ -419,6 +428,7 @@ const MigrateLandForRentMogi = async () => {
       utilsList: listUtilities,
       isConfirmed: true,
       postedBy: null,
+      legal:apartmentDetail.legal
     }; 
   
     let realEstate = new RealEstate(newRealEstate)
@@ -462,14 +472,14 @@ const createUtilitiesList = async (listUtilitiesName) => {
   };
 
 function MigrateRealEstate(){
-    MigrateApartmentForSale()
-    MigrateApartmentForRent()
-    MigrateHometownForRent()
-    MigrateHometownForSale()
-    MigrateApartmentForRentMogi()
-    MigrateApartmentForSaleMogi()
-    MigrateLandForSaleMogi()
-    MigrateLandForRentMogi()
+    // MigrateApartmentForSale()
+    // MigrateApartmentForRent()
+    // MigrateHometownForRent()
+    // MigrateHometownForSale()
+    // MigrateApartmentForRentMogi()
+    // MigrateApartmentForSaleMogi()
+    // MigrateLandForSaleMogi()
+    // MigrateLandForRentMogi()
     MigrateHometownForRentMogi()
     MigrateHometownForSaleMogi()
 }

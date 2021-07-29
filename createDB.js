@@ -27,7 +27,7 @@ mongoose.connect(
       }
       // the second
       {
-        // MigrateRealEstate()
+        MigrateRealEstate()
       }
     } 
     
