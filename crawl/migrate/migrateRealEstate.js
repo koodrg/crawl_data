@@ -444,6 +444,272 @@ const MigrateLandForRentMogi = async () => {
     //console.log(listUtilities)
 }
 
+
+const MigrateHometownForSaleBDS = async () => {
+  const { data } = require("../batdongsan/homeForSale_bds123.json");
+  //const category = await findCategory("Nhà phố bán")
+  
+  data.map(async (apartmentDetail) => {
+    let utilitiesList = apartmentDetail.utilList
+    let category =  await findCategory(apartmentDetail.category)
+    let listUtilities = await createUtilitiesList(utilitiesList)
+
+
+    let newRealEstate = {
+      _id: null,
+      id_category: category,
+      name: apartmentDetail.apartment_name,
+      area: apartmentDetail.area,
+      area_by_num: apartmentDetail.area_by_num,
+      direction: apartmentDetail.direction,
+      num_bedroom: apartmentDetail.num_bedroom,
+      num_wc: apartmentDetail.num_wc,
+      full_address: apartmentDetail.full_address,
+      detail_address: apartmentDetail.detail_address,
+      price: apartmentDetail.price,
+      price_by_num: apartmentDetail.price_by_num,
+      more_description: apartmentDetail.more_description,
+      imgList: apartmentDetail.imgList,
+      utilsList: listUtilities,
+      isConfirmed: true,
+      postedBy: null,
+      legal:apartmentDetail.legal
+    }; 
+  
+    let realEstate = new RealEstate(newRealEstate)
+
+    //console.log(newRealEstate)
+      try {
+        const saveRealEstate = await realEstate.save();
+        if (saveRealEstate) console.log(saveRealEstate);
+      } catch (error) {
+        console.log(error);
+      }
+    })
+    //console.log(listUtilities)
+}
+
+const MigrateHometownForRentBDS = async () => {
+  const { data } = require("../batdongsan/homeForRent_bds123.json");
+  //const category = await findCategory("Nhà phố bán")
+  
+  data.map(async (apartmentDetail) => {
+    let utilitiesList = apartmentDetail.utilList
+    let category =  await findCategory(apartmentDetail.category)
+    let listUtilities = await createUtilitiesList(utilitiesList)
+
+
+    let newRealEstate = {
+      _id: null,
+      id_category: category,
+      name: apartmentDetail.apartment_name,
+      area: apartmentDetail.area,
+      area_by_num: apartmentDetail.area_by_num,
+      direction: apartmentDetail.direction,
+      num_bedroom: apartmentDetail.num_bedroom,
+      num_wc: apartmentDetail.num_wc,
+      full_address: apartmentDetail.full_address,
+      detail_address: apartmentDetail.detail_address,
+      price: apartmentDetail.price,
+      price_by_num: apartmentDetail.price_by_num,
+      more_description: apartmentDetail.more_description,
+      imgList: apartmentDetail.imgList,
+      utilsList: listUtilities,
+      isConfirmed: true,
+      postedBy: null,
+      legal:apartmentDetail.legal
+    }; 
+  
+    let realEstate = new RealEstate(newRealEstate)
+
+    //console.log(newRealEstate)
+      try {
+        const saveRealEstate = await realEstate.save();
+        if (saveRealEstate) console.log(saveRealEstate);
+      } catch (error) {
+        console.log(error);
+      }
+    })
+    //console.log(listUtilities)
+}
+
+const MigrateApartmentForRentBDS = async () => {
+  const { data } = require("../batdongsan/apartmentForRent_bds123.json");
+  //const category = await findCategory("Nhà phố bán")
+  
+  data.map(async (apartmentDetail) => {
+    let utilitiesList = apartmentDetail.utilList
+    let category =  await findCategory(apartmentDetail.category)
+    let listUtilities = await createUtilitiesList(utilitiesList)
+
+
+    let newRealEstate = {
+      _id: null,
+      id_category: category,
+      name: apartmentDetail.apartment_name,
+      area: apartmentDetail.area,
+      area_by_num: apartmentDetail.area_by_num,
+      direction: apartmentDetail.direction,
+      num_bedroom: apartmentDetail.num_bedroom,
+      num_wc: apartmentDetail.num_wc,
+      full_address: apartmentDetail.full_address,
+      detail_address: apartmentDetail.detail_address,
+      price: apartmentDetail.price,
+      price_by_num: apartmentDetail.price_by_num,
+      more_description: apartmentDetail.more_description,
+      imgList: apartmentDetail.imgList,
+      utilsList: listUtilities,
+      isConfirmed: true,
+      postedBy: null,
+      legal:apartmentDetail.legal
+    }; 
+  
+    let realEstate = new RealEstate(newRealEstate)
+
+    //console.log(newRealEstate)
+      try {
+        const saveRealEstate = await realEstate.save();
+        if (saveRealEstate) console.log(saveRealEstate);
+      } catch (error) {
+        console.log(error);
+      }
+    })
+    //console.log(listUtilities)
+}
+
+
+const MigrateApartmentForSaleBDS = async () => {
+  const { data } = require("../batdongsan/apartmentForSale_bds123.json");
+  //const category = await findCategory("Nhà phố bán")
+  
+  data.map(async (apartmentDetail) => {
+    let utilitiesList = apartmentDetail.utilList
+    let category =  await findCategory(apartmentDetail.category)
+    let listUtilities = await createUtilitiesList(utilitiesList)
+
+
+    let newRealEstate = {
+      _id: null,
+      id_category: category,
+      name: apartmentDetail.apartment_name,
+      area: apartmentDetail.area,
+      area_by_num: apartmentDetail.area_by_num,
+      direction: apartmentDetail.direction,
+      num_bedroom: apartmentDetail.num_bedroom,
+      num_wc: apartmentDetail.num_wc,
+      full_address: apartmentDetail.full_address,
+      detail_address: apartmentDetail.detail_address,
+      price: apartmentDetail.price,
+      price_by_num: apartmentDetail.price_by_num,
+      more_description: apartmentDetail.more_description,
+      imgList: apartmentDetail.imgList,
+      utilsList: listUtilities,
+      isConfirmed: true,
+      postedBy: null,
+      legal:apartmentDetail.legal
+    }; 
+
+  
+    let realEstate = new RealEstate(newRealEstate)
+
+    //console.log(newRealEstate)
+      try {
+        const saveRealEstate = await realEstate.save();
+        if (saveRealEstate) console.log(saveRealEstate);
+      } catch (error) {
+        console.log(error);
+      }
+    })
+    //console.log(listUtilities)
+}
+
+const MigrateLandForSaleBDS = async () => {
+  const { data } = require("../batdongsan/landForSale_bds123.json");
+  //const category = await findCategory("Nhà phố bán")
+  
+  data.map(async (apartmentDetail) => {
+    let utilitiesList = apartmentDetail.utilList
+    let category =  await findCategory(apartmentDetail.category)
+    let listUtilities = await createUtilitiesList(utilitiesList)
+
+
+    let newRealEstate = {
+      _id: null,
+      id_category: category,
+      name: apartmentDetail.apartment_name,
+      area: apartmentDetail.area,
+      area_by_num: apartmentDetail.area_by_num,
+      direction: apartmentDetail.direction,
+      num_bedroom: apartmentDetail.num_bedroom,
+      num_wc: apartmentDetail.num_wc,
+      full_address: apartmentDetail.full_address,
+      detail_address: apartmentDetail.detail_address,
+      price: apartmentDetail.price,
+      price_by_num: apartmentDetail.price_by_num,
+      more_description: apartmentDetail.more_description,
+      imgList: apartmentDetail.imgList,
+      utilsList: listUtilities,
+      isConfirmed: true,
+      postedBy: null,
+      legal:apartmentDetail.legal
+    }; 
+  
+    let realEstate = new RealEstate(newRealEstate)
+
+    //console.log(newRealEstate)
+      try {
+        const saveRealEstate = await realEstate.save();
+        if (saveRealEstate) console.log(saveRealEstate);
+      } catch (error) {
+        console.log(error);
+      }
+    })
+    //console.log(listUtilities)
+}
+
+const MigrateLandForRentBDS = async () => {
+  const { data } = require("../batdongsan/landForRent_bds123.json");
+  
+  
+  data.map(async (apartmentDetail) => {
+    let utilitiesList = apartmentDetail.utilList
+    const category = await findCategory(apartmentDetail.category)
+    let listUtilities = await createUtilitiesList(utilitiesList)
+
+    let newRealEstate = {
+      _id: null,
+      id_category: category,
+      name: apartmentDetail.apartment_name,
+      area: apartmentDetail.area,
+      area_by_num: apartmentDetail.area_by_num,
+      direction: apartmentDetail.direction,
+      num_bedroom: apartmentDetail.num_bedroom,
+      num_wc: apartmentDetail.num_wc,
+      full_address: apartmentDetail.full_address,
+      detail_address: apartmentDetail.detail_address,
+      price: apartmentDetail.price,
+      price_by_num: apartmentDetail.price_by_num,
+      more_description: apartmentDetail.more_description,
+      imgList: apartmentDetail.imgList,
+      utilsList: listUtilities,
+      isConfirmed: true,
+      postedBy: null,
+      legal:apartmentDetail.legal
+    }; 
+  
+    let realEstate = new RealEstate(newRealEstate)
+
+    //console.log(newRealEstate)
+      try {
+        const saveRealEstate = await realEstate.save();
+        if (saveRealEstate) console.log(saveRealEstate);
+      } catch (error) {
+        console.log(error);
+      }
+    })
+    //console.log(listUtilities)
+}
+
 const findCategory = async (cateName) => {
   try {
     const category = await Categories.findOne({ cate_name: cateName });
@@ -480,8 +746,14 @@ function MigrateRealEstate(){
     // MigrateApartmentForSaleMogi()
     // MigrateLandForSaleMogi()
     // MigrateLandForRentMogi()
-    MigrateHometownForRentMogi()
-    MigrateHometownForSaleMogi()
+    // MigrateHometownForRentMogi()
+    // MigrateHometownForSaleMogi()
+    MigrateApartmentForRentBDS()
+    MigrateApartmentForSaleBDS()
+    MigrateLandForSaleBDS()
+    MigrateLandForRentBDS()
+    MigrateHometownForRentBDS()
+    MigrateHometownForSaleBDS()
 }
 
 
