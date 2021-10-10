@@ -1,0 +1,87 @@
+{
+    "data":
+    [{
+      "name" : "Ban công",
+      "type": "balcony"
+    },
+    {
+      "name" : "Ống hút khói điện",
+      "type": "electric_chimney"
+    },
+    {
+      "name" : "Wi-fi",
+      "type": "wifi"
+    },
+    {
+      "name" : "Thang máy",
+      "type": "elevator"
+    },
+    {
+      "name" : "Máy giặt",
+      "type": "washing_machine"
+    },
+    {
+        "name" : "Bình chữa cháy",
+        "type": "fire_extinguisher"
+    },
+    {
+      "name" : "Dụng cụ sơ cấp cứu",
+      "type": "first_aid_tools"
+    },
+    {
+      "name" : "Máy rửa chén",
+      "type": "dishwasher"
+    },
+    {
+      "name" : "Hồ bơi",
+      "type": "pool"
+    },
+    {
+      "name" : "Bồn tắm",
+      "type": "bathtub"
+    },
+    {
+      "name" : "Nhu thiết bị",
+      "type": "equipment_needs"
+    },
+    {
+      "name" : "Cho nuôi thú cưng",
+      "type": "pets_allowed"
+    },
+    {
+      "name" : "Máy lạnh",
+      "type": "air_conditioner"
+    },
+    {
+      "name" : "Internet",
+      "type": "internet"
+    },
+    {
+      "name" : "Đỗ xe",
+      "type": "parking"
+    },
+    {
+      "name" : "Máy lọc nước",
+      "type": "water_purifier"
+    },
+    {
+      "name" : "Hệ thống sưởi ấm nhà",
+      "type": "heating_system"
+    },
+    {
+        "name" : "Máy phát hiện khói",
+        "type": "smoke_detector"
+    },
+    {
+        "name" : "Nhà bếp",
+        "type" : "kitchen"
+    },
+    {
+        "name" : "Tivi",
+        "type": "television" 
+    },
+    {
+        "name" : "Lò vi sóng",
+        "type" : "microwave"
+    }]
+  }

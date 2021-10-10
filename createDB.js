@@ -4,7 +4,7 @@ const {
    MigrateCategories,
    MigrateUtils,
    MigrateRealEstate,
-} = require("./crawl/migrate/index");
+} = require("./src/crawl/migrate/index");
 
 //const getRealEstate = require('./crawl_data/migrate/getApartmentForSale')
 
