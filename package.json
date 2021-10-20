@@ -10,8 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "cheerio": "^1.0.0-rc.10",
     "dotenv": "^10.0.0",
+    "faker": "^5.5.3",
     "fs": "0.0.1-security",
     "mongodb": "^4.0.1",
     "mongoose": "^5.13.3",

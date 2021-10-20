@@ -15,11 +15,39 @@ const User = mongoose.Schema(
             type: String,
             required: true
         },
-        // listRealEstateLiked: [{
-        //     type: mongoose.SchemaTypes.ObjectId,
-        //     ref: RealEstate,
-        // }],
-
+        phoneNumber:{
+            type: String,
+            require: true
+        },
+        address:{
+            ward: {
+                type: String,
+            },
+            district: {
+                type: String,
+                required: true
+            },
+            city: {
+                type: String,
+                required: true
+            }
+        },
+        fullAddress: {
+            type: String,
+        },
+        avatarUrl: {
+            type: String,
+            default: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNL_ZnOTpXSvhf1UaK7beHey2BX42U6solRA&usqp=CAU"
+        },
+        listRating: [{
+            REId: {
+                type: mongoose.SchemaTypes.ObjectId,
+                ref: 'realEstate',
+            },
+            Rating: {
+                type: Number,
+            }
+        }],
     },
     {
         timestamps: {
