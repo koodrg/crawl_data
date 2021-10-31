@@ -4,7 +4,8 @@ const {
    MigrateCategories,
    MigrateUtils,
    MigrateRealEstate,
-   MigrateUsers
+   MigrateUsers,
+   fakeDataRating
 } = require("./src/migrate/index");
 
 //const getRealEstate = require('./crawl_data/migrate/getApartmentForSale')
@@ -25,11 +26,14 @@ mongoose.connect(
       {
         // MigrateCategories();
         // MigrateUtils();
-        MigrateUsers();
+        //MigrateUsers();
       }
       // the second
       {
-        //MigrateRealEstate()
+        //MigrateRealEstate();
+      }
+      {
+        fakeDataRating();
       }
     } 
     
